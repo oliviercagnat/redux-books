@@ -83,7 +83,7 @@ const ContainerBook = ({ libraryData, addBook, deleteBook, deleteAllBooks }) => 
             </div>
 
             <div className="p-2">
-              <button className="btn btn-outline-secondary">Add a book</button>
+              <button className="btn btn-outline-secondary">Add</button>
             </div>
           </form>
         </div>
